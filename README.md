@@ -62,9 +62,9 @@ sketch.ino
 ---
 
 ## Authors
-SAMJO ROYSON
-MAYANK RAMESH
-NOEL THANKACHAN
-RELVIN ANTO
+- SAMJO ROYSON
+- MAYANK RAMESH
+- NOEL THANKACHAN
+- RELVIN ANTO
 
 Robotics & Mechatronics Department
