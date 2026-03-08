@@ -53,7 +53,6 @@ sketch.ino
 - Water level monitoring in reservoirs
 - Smart city disaster management systems
 - Early warning systems for flood-prone areas
-
 ---
 ## Future Improvements
 - Sending alerts to mobile phones using IoT cloud platforms
@@ -61,3 +60,11 @@ sketch.ino
 - Using solar power for remote deployment
 - Storing data for long-term flood analysis
 ---
+
+## Authors
+SAMJO ROYSON
+MAYANK RAMESH
+NOEL THANKACHAN
+RELVIN ANTO
+
+Robotics & Mechatronics Department
